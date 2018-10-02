@@ -1,0 +1,11 @@
+/color.lua
+/fenster.lua
+/game-over.lua
+/game.lua
+/general.lua
+/macro-utils.lua
+/play.lua
+/releases/*
+/richtig.lua
+/serve.lua
+/start.lua
